@@ -1,6 +1,6 @@
 FROM alpine:latest
 MAINTAINER Cameron Meindl <cmeindl@gmail.com>
-ARG GITTAG=2.3.9
+ARG GITTAG=3.1.1
 ARG PAR2TAG=v0.7.4
 
 COPY requirements.txt /requirements.txt
